@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.drewnoakes:metadata-extractor:2.12.0" type="repository">
+    <properties maven-id="com.drewnoakes:metadata-extractor:2.12.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/drewnoakes/metadata-extractor/2.12.0/metadata-extractor-2.12.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/xmp/xmpcore/6.0.6/xmpcore-6.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
